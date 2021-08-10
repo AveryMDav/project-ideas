@@ -1,0 +1,24 @@
+Ideas
+
+1. The World Around You
+*An app with an interactive map that will tell you about plant and animal life endemic to the areas you select. 
+*It will allow you to view information about those animals and plants.
+*Will have information links to endangered animals and climate reports.
+
+2. Perfect Meal 
+*An app that helps you build a meal plan, dinner plan, etc. 
+*Gives suggestions based on meal for drinks, appetizers, etc.
+*Lets you filter based off food preferences
+*Allows you to track your pantry by scanning your grocery receipts.
+
+3. Mountaineer 
+*A hiking app that tracks trails you have already hiked and lets you plan for future hikes.
+
+4. Habit tracking website.
+*Tracks time spent on the internet and shows the data
+*Allows you to set goals
+*Sends reminders via text message and/or email
+
+5. App that helps you learn the elvish language from lord of the rings.
+*Utilizes the free LOTR api to teach you elvish through flash cards
+*Will contain information about charaters and lore from LOTR
