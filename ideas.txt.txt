@@ -22,3 +22,22 @@ Ideas
 5. App that helps you learn the elvish language from lord of the rings.
 *Utilizes the free LOTR api to teach you elvish through flash cards
 *Will contain information about charaters and lore from LOTR
+
+Perfect Meal
+Pitch/Idea: A web app that allows users to look through meal and drink recipes, submit their own recipes, and plan out a “perfect” meal plan!
+MVP:
+Users can view a list of recipe links
+Users add recipes to their personal library 
+Users can create their own recipes
+Users build a meal plan from save recipes
+Users can create an account, log in and out, and delete their account
+
+
+EXP Habit Tracker
+Pitch/Idea: Keep track of your time spent by getting reports of your internet usage, setting goals, and get rewarded for your efforts!
+MVP:
+User can track their time spent across the internet
+User can set and customize their goals
+User can set up their personal profile
+User will receive trophies, titles, levels, etc for accomplishing their set goals
+User will can customize reminders for their goals which will be sent through their phone
